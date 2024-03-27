@@ -1,0 +1,102 @@
+{
+    "Question 1": {
+        "question": "Qu'est-ce qu'un programmeur Python ?",
+        "reponse": "développeur qui code en « Python »",
+        "options": [
+            "un serpent qui apprend la programmation",
+            "développeur qui code en « Python »",
+            "un langage de programmation pour les zoos",
+            "une bibliothèque de livres sur les serpents"
+        ]
+    },
+    "Question 2": {
+        "question": "Quelle est la différence entre une boucle 'for' et une boucle 'while' en Python ?",
+        "reponse": "La boucle 'for' est utilisée pour parcourir des séquences comme les listes, tandis que la boucle 'while' est utilisée pour exécuter une série d'instructions tant qu'une condition est vraie.",
+        "options": [
+            "La boucle 'for' est utilisée pour les chaînes de caractères, tandis que la boucle 'while' est utilisée pour les entiers.",
+            "La boucle 'for' est une boucle infinie, tandis que la boucle 'while' est une boucle finie.",
+            "La boucle 'for' est utilisée pour les entiers, tandis que la boucle 'while' est utilisée pour les listes.",
+            "La boucle 'for' est utilisée pour parcourir des séquences comme les listes, tandis que la boucle 'while' est utilisée pour exécuter une série d'instructions tant qu'une condition est vraie."
+        ]
+    },
+    "Question 3": {
+        "question": "Qu'est-ce que l'encapsulation en programmation orientée objet ?",
+        "reponse": "L'encapsulation est le regroupement des données et des méthodes qui les manipulent en une seule entité.",
+        "options": [
+            "L'encapsulation est le regroupement des fonctions et des variables dans un programme.",
+            "L'encapsulation est le fait de cacher les détails d'implémentation d'une classe.",
+            "L'encapsulation est le regroupement des données et des méthodes qui les manipulent en une seule entité.",
+            "L'encapsulation est le processus de conversion d'un objet en une chaîne de caractères."
+        ]
+    },
+    "Question 4": {
+        "question": "Qu'est-ce que l'itération en programmation ?",
+        "reponse": "L'itération fait référence au processus de répétition d'une série d'instructions dans un programme.",
+        "options": [
+            "L'itération est le processus de conversion d'un objet en une chaîne de caractères.",
+            "L'itération fait référence au processus de répétition d'une série d'instructions dans un programme.",
+            "L'itération est le regroupement des données et des méthodes qui les manipulent en une seule entité.",
+            "L'itération est le fait de cacher les détails d'implémentation d'une classe."
+        ]
+    },
+    "Question 5":{
+        "question" : "Dans South Park qui meurt le plus ?",
+        "reponse" : "kenny mcCormick",
+        "options":[
+            "Eric Cartman",
+            "kenny mcCormick",
+            "chef",
+            "Stan Marsh"
+        ]
+    },
+    "Question 6":{
+        "question" : "Quel est la date de deces de la reine Elisabeth II ?",
+        "reponse" : "8 septembre 2022",
+        "options":[
+            "8 septembre 2022",
+            "5 octobre 2022",
+            "6 mars 2022",
+            "15 fevrier 2021"
+        ]
+    },
+    "Question 7":{
+        "question" : "Quel pays en Afrique est appele le continent ?",
+        "reponse" : "Cameroun",
+        "options":[
+            "Congo",
+            "Mali",
+            "Cameroun",
+            "Le Comores"
+        ]
+    },
+    "Question 8":{
+        "question" : "Quel est l'etudiant le plus fort en programation I ?",
+        "reponse" : "TONI",
+        "options":[
+            "Personne",
+            "Bodrin",
+            "Toi",
+            "TONI"
+        ]
+    },
+    "Question 9":{
+        "question" : "Qui utilise pour la premiere la technique Feu Glace dans Inazouma Eleven",
+        "reponse" : "Axel Blaze et Shawn Froste",
+        "options":[
+            "Mark Evans",
+            "Axel Blaze",
+            "Eric Eagle",
+            "Axel Blaze et Shawn Froste"
+        ]
+    },
+    "Question 10":{
+        "question" : "Saitama(One Punch Man) VS Goku ultra instinct ?",
+        "reponse" : "Saitama",
+        "options":[
+            "Goku",
+            "Saitama",
+            "Match Null",
+            "ca ne va jamais arriver"
+        ]
+    }
+}
